@@ -9,23 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and Qualifications
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Artificial Intelligence, University Of Edinburgh, 2017
+* Certified Scrum Master
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar 2019 - Present: Software Engineer II
+  * Corero Network Security
+  * Duties included: Writting Code, Squashing Bugs
 
-* Fall 2015: Research Assistant
-  * Github University
+* Jun 2017 - Feb 2019 : Software Engineer
+  * Graduate Job
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -36,24 +33,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
