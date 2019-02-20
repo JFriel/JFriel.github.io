@@ -10,6 +10,6 @@ redirect_from:
 
 Graduating in 2017 with a degree in Artificial Intelligence, I have spent the vast majority on time since building web applications. Spending my free time, and as much as my employer will allow, building data science solutions to problems that nobody asked me to solve.
 
-A variety of my projects can be found over on the [Projects](https://jfriel.github.io/projects) page.
+A variety of my projects can be found over on the [Portfolio](https://jfriel.github.io/portfolio) page.
 
 ------
